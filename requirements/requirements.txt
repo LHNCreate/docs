@@ -7,7 +7,7 @@ myst-parser
 # myst_nb
 
 # --------主题-------------
-sphinx-book-theme==0.1.7
+sphinx-book-theme
 
 
 # 功能性插件
